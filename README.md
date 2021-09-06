@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Try this React App via the firebase link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://netflix-netflix.web.app/
 
 ## Available Scripts
 
